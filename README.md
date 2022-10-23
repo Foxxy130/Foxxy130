@@ -4,7 +4,7 @@
     <a href="mailto:Foxxy130@proton.me">
       <img src="https://img.shields.io/badge/Protonmail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
     </a>
-    <a href="">
+    <a href="http://www.thereisnothinghere.com/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </p>
